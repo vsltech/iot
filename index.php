@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<!WiringPi GPIO Numbering for me: 1, 4, 15, 16>
-<!BCM GPIO Numbering for me: 14, 15, 18, 23>
-<!Copyright VSL Creations>
+<!--WiringPi GPIO Numbering for me: 1, 4, 15, 16-->
+<!--BCM GPIO Numbering for me: 14, 15, 18, 23-->
+<!--Copyright VSL Creations-->
 
 <html lang="en">
     <head>		
